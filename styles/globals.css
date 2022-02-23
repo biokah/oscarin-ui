@@ -9,6 +9,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Quicksand', sans-serif;
+  background-color: #F8F3F5;
 }
 
 a {
@@ -18,6 +19,10 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+main.main {
+  padding-top: 60px;
 }
 
 .c_header {
