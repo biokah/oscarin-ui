@@ -54,3 +54,51 @@ main.main {
 .c_header .share {
   margin-right: 30px;
 }
+
+.c_large-card {
+  border: 1px solid black;
+}
+.c_large-card .image-wrapper  {
+  height: 283px;
+  min-width: 194px;
+}
+
+.c_large-card .title-wrapper {
+  min-height: 33px;
+  font-size: 14px;
+}
+
+.c_medium-card {
+  width: 330px;
+  height: 70px;
+  border: 1px solid black;
+  margin: 30px;
+  font-size: 14px;
+}
+
+.c_medium-card .image-wrapper {
+  width: 91px;
+}
+
+.c_medium-card .title-wrapper {
+  margin-left: 10px;
+}
+
+.c_small-card {
+  border: 1px solid black;
+  width: 246px;
+  height: 51px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.c_welcome {
+  font-size: 16px;
+  padding: 18px 34px;
+  margin: 30px;
+}
+
+.c_welcome h4 {
+  font-size: 24px;
+  font-weight: 700;
+}

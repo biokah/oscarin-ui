@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "./../../../assets/images/Oscarin_Logo.png";
+import logo from "./../../../assets/images/Oscarin_Logo.svg";
 import send from "./../../../assets/images/send.png";
 import Link from "next/link";
 import { useRouter } from "next/router";
